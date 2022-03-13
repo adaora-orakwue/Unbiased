@@ -1,6 +1,6 @@
 # Unbiased
 
-Created by Eric Williams and Adaora Orakwue
+Created by Adaora Orakwue and Eric Williams
 
 What is it?
 A google chrome extension that warns users of biased news sources and provides users with suggested factual sources
